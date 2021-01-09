@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Bogosort",
+        "id": 0,
+        "timeComplexityWorstCase": "O((n+1)!)",
+        "timeComplexityBestCase": "O(n)",
+        "timeComplexityAverageCase": "O((n+1)!)",
+        "spaceComplexityWorstCase": "O(1)",
+        "spaceComplexityBestCase": "O(1)",
+        "spaceComplexityAverageCase": "O(1)"
+    },
+    {
+        "name": "Bubble Sort",
+        "id": 1,
+        "timeComplexityWorstCase": "O(n^2)",
+        "timeComplexityBestCase": "O(n)",
+        "timeComplexityAverageCase": "O(n^2)",
+        "spaceComplexityWorstCase": "O(1)",
+        "spaceComplexityBestCase": "O(1)",
+        "spaceComplexityAverageCase": "O(1)"
+    },
+    {
+        "name": "Insertion Sort",
+        "id": 2,
+        "timeComplexityWorstCase": "O(n^2)",
+        "timeComplexityBestCase": "O(n)",
+        "timeComplexityAverageCase": "O(n^2)",
+        "spaceComplexityWorstCase": "O(1)",
+        "spaceComplexityBestCase": "O(1)",
+        "spaceComplexityAverageCase": "O(1)"
+    },
+    {
+        "name": "Selection Sort",
+        "id": 3,
+        "timeComplexityWorstCase": "O(n^2)",
+        "timeComplexityBestCase": "O(n^2)",
+        "timeComplexityAverageCase": "O(n^2)",
+        "spaceComplexityWorstCase": "O(1)",
+        "spaceComplexityBestCase": "O(1)",
+        "spaceComplexityAverageCase": "O(1)"
+    },
+    {
+        "name": "Quick Sort",
+        "id": 4,
+        "timeComplexityWorstCase": "O(n^2)",
+        "timeComplexityBestCase": "O(n*log(n))",
+        "timeComplexityAverageCase": "O(n*log(n))",
+        "spaceComplexityWorstCase": "O(log(n))",
+        "spaceComplexityBestCase": "O(log(n))",
+        "spaceComplexityAverageCase": "O(log(n))"
+    },
+]
+ 
+ 
