@@ -1,5 +1,5 @@
-# sorting-app
+# Sorting Visualizer
 
-This package is a collection of some sorting algorithms (currently Bogo Sort, Bubble Sort, Insertion Sort, Selection Sort and Quicksort) including a visualization to help understand how they work. sorting-app is written in Swift using SwiftUI.
+A visualization for various sorting algorithms like bogo sort, bubble sort, insertion sort, selection sort and quick sort.
 
 <img src="https://github.com/m-rtin/sorting-app/blob/main/demoGif.gif" height="500"> 
